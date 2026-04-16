@@ -11,12 +11,9 @@ integrarsi con applicazioni sia già esistenti che nuove grazie
 alla sua tripla interfaccia, P3L supporta le connessioni USB,
 seriale ed Ethernet.
 
-Ideale per il Retail e l’Hospitality, la sua
-velocità di 250 mm/s assicura transazioni veloci presso il
-punto vendita. Costruita per durare, è dotata di una testina di
-stampa a lunga durata e di autocutter. Progettata avvalendosi
-degli oltre 30 anni di esperienza di Custom nella stampa, P3L
-è la leader tra le stampanti POS termiche per quanto riguarda
+Ideale per il Retail e l’Hospitality, la suavelocità di 250 mm/s assicura transazioni veloci presso il
+punto vendita. Costruita per durare, è dotata di una testina di stampa a lunga durata e di autocutter. Progettata avvalendosi
+degli oltre 30 anni di esperienza di Custom nella stampa, P3L è la leader tra le stampanti POS termiche per quanto riguarda
 la convenienza.
 
 ### Highlights
