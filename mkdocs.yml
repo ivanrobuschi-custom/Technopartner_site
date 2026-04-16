@@ -43,15 +43,14 @@ plugins:
 copyright: Copyright Custom S.p.A 2026
 
 nav:
-  - index.md
-  - STAMPANTI POS:
-      - K3 HIGH SPEED : k3_highspeed_linerfree.md
-      - Q3X: Q3X.md
-      - P3L: P3L.md
-      - P3X: P3X.md
-  - SILK II: silk.md
-  - TABLE T-RANGER: tranger.md
-  - LETTORI CODICE A BARRE: barcode.md
-  - PALMARI:
-    - P-RANGER: pranger.md
+- STAMPANTI POS:
+  - K3 HIGH SPEED : k3_highspeed_linerfree.md
+  - Q3X: Q3X.md
+  - P3L: P3L.md
+  - P3X: P3X.md
+- SILK II: silk.md
+- TABLE T-RANGER: tranger.md
+- LETTORI CODICE A BARRE: barcode.md
+- PALMARI:
+  - P-RANGER: pranger.md
    
