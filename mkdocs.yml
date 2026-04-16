@@ -1,0 +1,57 @@
+site_name: Presentazione prodotti retail Technopartner
+site_url: https://github.com/ivanrobuschi-custom/corso-tecnico-edge-n.git
+site_author: Ivan Robuschi
+theme:
+  name: material
+  logo: assets/icons/logo.png
+  favicon: assets/icons/favicon.png
+  language: it
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+
+  palette:
+    primary: blue grey
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  
+plugins:
+  - search
+  - tags
+
+copyright: Copyright Custom S.p.A 2026
+
+nav:
+  - index.md
+  - STAMPANTI POS:
+      - K3 HIGH SPEED : k3_highspeed_linerfree.md
+      - Q3X: Q3X.md
+      - P3L: P3L.md
+      - P3X: P3X.md
+  - SILK II: silk.md
+  - TABLE T-RANGER: tranger.md
+  - LETTORI CODICE A BARRE: barcode.md
+  - PALMARI:
+    - P-RANGER: pranger.md
+   
