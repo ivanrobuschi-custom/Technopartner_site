@@ -1,5 +1,7 @@
 # P3L
 
+![](assets/images/P3L.png)
+
 ## STAMPANTE P3L 58/80MM ETH USB RS232 CON RIDUTTORE
 
 ### Descrizione

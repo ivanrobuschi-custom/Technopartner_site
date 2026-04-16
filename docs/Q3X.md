@@ -1,5 +1,7 @@
 # Q3X
 
+![](assets/images/Q3X.png)
+
 ## STAMPANTE Q3X BTH IAP2 USB RS232
 
 ### Descrizione

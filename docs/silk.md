@@ -1,5 +1,7 @@
 # SILK II
 
+![](assets/images/Silk.png)
+
 ## PCPOS SILK II 15.6” ANDROID 11 4/64GB
 
 ### Descrizione

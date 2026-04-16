@@ -37,6 +37,8 @@ a un normale rotolo.
 - Montaggio verticale
 - Tools: PrinterSet, Virtual COM, Custom Power Tool
 
+![](assets/images/K3_LF.jpg)
+
 #### Modello
 
 - 911HM011200733 STAMPANTE K3 HIGH SPEED LINERFREE ETH USB RS232

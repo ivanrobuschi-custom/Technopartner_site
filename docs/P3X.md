@@ -1,5 +1,7 @@
 # P3X
 
+![](assets/images/P3X.png)
+
 ## STAMPANTE P3X 80MM ETH USB RS232
 
 ### Descrizione

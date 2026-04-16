@@ -1,5 +1,7 @@
 # T-RANGER
 
+![](assets/images/trange.png)
+
 ## RUGGED TABLET T-RANGER 10.1" ANDR 11 SCAN EU
 
 ![]()
