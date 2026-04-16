@@ -2,6 +2,9 @@
 
 ## SCANMATIC BARCODE SCANNER SM100 1D USB
 
+![](assets/images/sm100.png)
+
+
 ### Descrizione
 Lo scanner di codici a barre SM100 garantisce ottime prestazioni nelle operazioni di cassa presso i punti vendita,
 grazie alla tecnologia di ultima generazione integrata. È un lettore di codici a barre affidabile ed adatto a diversi ambienti
@@ -26,6 +29,8 @@ soluzioni più convenienti sul mercato ed è la scelta migliore per qualsiasi am
 
 ### SCANMATIC BARCODE SCANNER SM200 2D USB
 
+![](assets/images/sm100.png)
+
 ### Descrizione
 
 Lo scanner di codici a barre SM200 garantisce ottime prestazioni nelle operazioni di cassa presso i punti vendita, grazie alla tecnologia di ultima generazione integrata. È un lettore di codici a barre affidabile adatto a diversi ambienti lavorativi. Le caratteristiche dell'SM200 e il suo eccezionale rapporto qualità-prezzo lo rendono la soluzione migliore per applicazioni retail e magazzino. L'SM200 è caratterizzato da una linea ergonomica ed è dotato di interfaccia USB. Il potente scanner integrato legge tutti i principali codici a barre 1D, 2D e le simbologie GS1 DataBar™, compresi i codici danneggiati o con difetti di stampa. Legge su display, riducendo i tempi di elaborazione, i costi di manodopera, aumentando la precisione. Il Software di programmazione ScannerSet, fornisce ampie opzioni di configurazione. L'SM200 è una delle soluzioni più convenienti sul mercato ed è la scelta migliore per qualsiasi ambiente di vendita al dettaglio.
@@ -41,6 +46,8 @@ Lo scanner di codici a barre SM200 garantisce ottime prestazioni nelle operazion
 • Software: Custom ScannerSet
 
 ## SCANMATIC BARCODE SCANNER SM410 1D + KIT
+
+![](assets/images/sm410.png)
 
 ## Descrizione
 SCANMATIC SM410 è lo scanner di codici a barre 1D professionale, progettato per offrire il meglio dell'esperienza
@@ -69,6 +76,8 @@ e su supporto etichette
 
 ## SCANMATIC BARCODE SCANNER SM420 2D
 
+![](assets/images/sm410.png)
+
 ## Descrizione
 
 SCANMATIC SM420 è lo scanner di codici a barre 2D professionale, progettato per offrire il meglio dell'esperienza
@@ -95,6 +104,8 @@ USB in un lettore 2D Seriale
 • Software: Custom ScannerSet
 
 ## SCANMATIC BARCODE SCANNER SM425 2D WIRELESS
+
+![](assets/images/sm410.png)
 
 ## Descrizione
 
@@ -130,6 +141,8 @@ Bluetooth® con cradle di ricarica incluso.
 • Peso cradle: 170 g
 
 ## SCANMATIC PRESENTATION BARCODE SCANNER SM600U 1D/2D
+
+![](assets/images/sm600u.png)
 
 ## Descrizione
 

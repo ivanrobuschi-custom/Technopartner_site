@@ -1,4 +1,6 @@
-#P-RANGER
+# P-RANGER
+
+![](assets/images/pranger.png)
 
 ## RUGGED HANDHELD P-RANGER 5" ANDR 12 SCANNER RP312 A12 EU
 
