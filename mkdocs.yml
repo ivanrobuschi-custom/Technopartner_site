@@ -45,7 +45,8 @@ copyright: Copyright Custom S.p.A 2026
 nav:
 - Presentazione: presentazione.md
 - STAMPANTI POS:
-  - K3 HIGH SPEED : k3_highspeed_linerfree.md
+  - K3 HIGH SPEED : k3_highspeed.md 
+  - K3 HIGH SPEED linerfree: k3_highspeed_linerfree.md
   - Q3X: Q3X.md
   - P3L: P3L.md
   - P3X: P3X.md
