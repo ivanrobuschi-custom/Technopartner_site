@@ -8,8 +8,8 @@
   font-display: swap;
 }
 
-/* 2. Applicazione del Font al Tema Material */
-:root {
+/* 2. Applicazione del Font e dei Colori al Tema Material */
+:root, [data-md-color-primary], [data-md-color-scheme] {
   /* --md-text-font controlla il corpo del testo e i titoli */
   --md-text-font: 'Titillium Web', sans-serif;
   
@@ -39,4 +39,13 @@
 /* 3. Forzatura (Fallback di sicurezza) */
 body, h1, h2, h3, h4, h5, h6, input, button {
   font-family: 'Titillium Web', sans-serif;
+}
+
+/* 4. FORZATURA ASSOLUTA COLORI HEADER E FOOTER */
+.md-header {
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+.md-footer, .md-footer-meta {
+  background-color: var(--md-footer-bg-color) !important;
 }
