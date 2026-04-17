@@ -1,3 +1,5 @@
 # BENVENUTA TECHNOPARTNER
 
 <iframe src="https://customgroupspa-my.sharepoint.com/personal/i_robuschi_custom_it/_layouts/15/Doc.aspx?sourcedoc={c8cc731a-455b-44ca-9446-d9516b68efd4}&amp;action=embedview&amp;wdAr=1.7770833333333333" width="1024px" height="768px" frameborder="0" title="Visualizzatore di PowerPoint">Si tratta di un <a target="_blank" href="https://office.com">Microsoft Office</a> incorporato presentazione, basato su <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+[PRESENTAZIONE](assets/resources/2603-Custom_DCPOS_IT.pptx)
