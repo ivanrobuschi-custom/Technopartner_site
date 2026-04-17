@@ -47,3 +47,5 @@ la convenienza.
 #### Consumabili
 
 - 67300000000398 ROTOLO CARTA TERMICA 80X80 DI13
+
+- [MANUALE UTENTE P3L](assets/resources/manualeP3L.pdf)

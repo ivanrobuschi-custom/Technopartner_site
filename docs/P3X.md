@@ -42,3 +42,5 @@ Grazie alla sua struttura compatta e robusta, si adatta a a qualsiasi ambiente d
 #### Consumabili
 
 - 67300000000398 ROTOLO CARTA TERMICA 80X80 DI13
+
+- [MANUALE UTENTE P3X](assets/resources/manuale_p3x.pdf)

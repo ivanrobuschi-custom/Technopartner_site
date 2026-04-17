@@ -41,3 +41,5 @@ Dotata di interfaccia seriale e USB.
 #### Consumabili
 
 - 67300000000398 ROTOLO CARTA TERMICA 80X80 DI13
+
+- [MANUALE UTENTE Q3X](assets/resources/manualeq3x.pdf)

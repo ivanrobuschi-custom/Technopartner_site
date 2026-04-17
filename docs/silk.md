@@ -35,3 +35,5 @@ PCPOS con Android™ 11 standard e Google Play Store. Un set completo di interfa
 - 932KY470100M33 11.6” SECONDO DISPLAY LED
 - 932KY470300M33 15.6” SECONDO DISPLAY LED
 - 943KY470200233 MAG STRIPE + NFC + FINGERPRINT READER
+
+- [MANUALE UTENTE SILK II](assets/resources/silk.pdf)
